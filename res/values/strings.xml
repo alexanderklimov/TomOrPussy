@@ -3,7 +3,7 @@
 
     <string name="app_name">Кот или кошка?</string>
     <string name="action_settings">Settings</string>
-    <string name="question_text">Угадай, это кот или кошка?</string>
+    <string name="question_text">Угадай, кто изображён на картинке.\nЭто кот или кошка?</string>
     <string name="tomcat_button">Кот</string>
     <string name="pussycat_button">Кошка</string>
     <string name="next_button">Далее</string>
